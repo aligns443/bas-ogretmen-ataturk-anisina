@@ -1,3 +1,8 @@
+# 🇹🇷 Başöğretmen Atatürk Anısına
+
+29 Ekim'de Atamız Mustafa Kemal Atatürk'ün anısına...
+
+
 Cumhuriyet Bayramı için hazırlanmış bir C# konsol uygulaması. Çalıştırınca terminalde
 önce **Atatürk portresini**, hemen altında da **içi Atatürk'ün bakışlarıyla dolu bir
 Türkiye haritasını** çizer. En altta "Yurtta sulh, cihanda sulh." sözü yer alır.
@@ -10,7 +15,7 @@ Gereksinimler: **Windows** ve [.NET 10 SDK](https://dotnet.microsoft.com/downloa
 
 ```bash
 git clone https://github.com/aligns443/bas-ogretmen-ataturk-anisina
-cd Atam
+cd bas-ogretmen-ataturk-anisina
 dotnet run
 ```
 
