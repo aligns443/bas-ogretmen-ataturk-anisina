@@ -14,7 +14,7 @@ Gereksinimler: **Windows** ve [.NET 10 SDK](https://dotnet.microsoft.com/downloa
 Gereksinimler: **Windows** ve [.NET 10 SDK](https://dotnet.microsoft.com/download)
 
 ```bash
-git clone https://github.com/aligns443/Atam.git
+git clone https://github.com/aligns443/bas-ogretmen-ataturk-anisina
 cd Atam
 dotnet run
 
